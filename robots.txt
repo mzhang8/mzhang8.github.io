@@ -1,0 +1,49 @@
+# Block AI crawlers, training scrapers, and LLM agents.
+# Regular search engines (Google, Bing, etc.) are still allowed.
+
+# OpenAI
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+# Anthropic
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+# Google AI (doesn't affect Google Search)
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Gemini-Deep-Research
+# Apple AI (doesn't affect Siri/Spotlight search)
+User-agent: Applebot-Extended
+# Meta
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: FacebookBot
+# Perplexity
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+# Others
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: MistralAI-User
+User-agent: DuckAssistBot
+User-agent: YouBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Diffbot
+User-agent: ImagesiftBot
+User-agent: Omgilibot
+User-agent: Omgili
+User-agent: Timpibot
+User-agent: PanguBot
+User-agent: Kangaroo Bot
+User-agent: Webzio-Extended
+User-agent: FirecrawlAgent
+User-agent: img2dataset
+User-agent: Scrapy
+Disallow: /
